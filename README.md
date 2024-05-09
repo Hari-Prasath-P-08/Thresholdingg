@@ -26,7 +26,6 @@ Use Otsu's method to segment the image and display the results.
 ## Program
 ### Developed by: Hari Prasath. P
 ### Reg. No: 212223230070
-# Load the necessary packages
 
 # Load the necessary packages
 
